@@ -47,7 +47,7 @@ More details are documented in [docs/CX3550.md](docs/CX3550.md).
     Placeholder for the next version (at the beginning of the line):
     ### **WORK IN PROGRESS**
 -->
-### 1.6.0 (2026-07-03)
+### **WORK IN PROGRESS**
 - (Holly86) Added support for Philips/Versuni CX3550/01 pedestal fan.
 - (Holly86) Added CX fan modes, oscillation, beep and read-only timer state.
 - (Holly86) Timer control is intentionally not exposed because local timer writes can switch the fan off.
