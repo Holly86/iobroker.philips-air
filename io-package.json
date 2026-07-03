@@ -3,19 +3,6 @@
     "name": "philips-air",
     "version": "1.6.0",
     "news": {
-      "1.6.0": {
-        "en": "Added support for Philips/Versuni CX3550/01 pedestal fan.\nAdded CX fan modes, oscillation, beep and read-only timer state.\nTimer control is intentionally not exposed because local timer writes can switch the fan off.",
-        "de": "Unterstützung für den Standventilator Philips/Versuni CX3550/01 hinzugefügt.\nCX-Lüftermodi, Oszillation, Signalton und schreibgeschützter Timer-Status hinzugefügt.\nDie Timersteuerung wird absichtlich nicht offengelegt, da lokale Timer-Schreibvorgänge den Lüfter ausschalten können.",
-        "ru": "Добавлена поддержка напольных вентиляторов Philips/Versuni CX3550/01.\nДобавлены режимы работы вентилятора CX, функция вращения, звуковой сигнал и состояние таймера только для чтения.\nУправление таймером намеренно недоступно, поскольку локальная запись в таймер может привести к выключению вентилятора.",
-        "pt": "Adicionado suporte para a ventoinha de pedestal Philips/Versuni CX3550/01.\nAdicionados modos de ventoinha CX, oscilação, sinal sonoro e estado do temporizador somente leitura.\nO controle do temporizador não é exposto intencionalmente porque as escritas no temporizador local podem desligar o ventilador.",
-        "nl": "Ondersteuning toegevoegd voor de Philips/Versuni CX3550/01 staande ventilator.\nCX-ventilatorstanden, oscillatie, pieptoon en alleen-lezen timerstatus toegevoegd.\nDe timerbesturing is opzettelijk niet beschikbaar, omdat lokale schrijfbewerkingen op de timer de ventilator kunnen uitschakelen.",
-        "fr": "Ajout de la prise en charge du ventilateur sur pied Philips/Versuni CX3550/01.\nAjout de modes de ventilation CX, oscillation, bip sonore et état de la minuterie en lecture seule.\nLa commande du minuteur n'est volontairement pas exposée car les écritures du minuteur local peuvent désactiver le ventilateur.",
-        "it": "Aggiunto il supporto per il ventilatore a piantana Philips/Versuni CX3550/01.\nAggiunte le modalità di funzionamento della ventola CX, l'oscillazione, il segnale acustico e lo stato del timer in sola lettura.\nIl controllo del timer non è intenzionalmente esposto perché le scritture locali del timer possono spegnere la ventola.",
-        "es": "Se ha añadido compatibilidad con el ventilador de pedestal Philips/Versuni CX3550/01.\nSe han añadido modos de ventilador CX, oscilación, pitido y estado de temporizador de solo lectura.\nEl control del temporizador no se expone intencionadamente porque las escrituras locales del temporizador pueden apagar el ventilador.",
-        "pl": "Dodano obsługę wentylatora kolumnowego Philips/Versuni CX3550/01.\nDodano tryby wentylatora CX, oscylację, sygnał dźwiękowy i stan timera tylko do odczytu.\nSterowanie czasowe celowo nie jest ujawniane, ponieważ zapisy lokalnego czasomierza mogą wyłączyć wentylator.",
-        "uk": "Додано підтримку вентилятора на підставці Philips/Versuni CX3550/01.\nДодано режими вентилятора CX, коливання, звуковий сигнал та стан таймера лише для читання.\nКерування таймером навмисно не розголошується, оскільки записи локального таймера можуть вимкнути вентилятор.",
-        "zh-cn": "新增对飞利浦/Versuni CX3550/01落地扇的支持。\n新增 CX 风扇模式、摆动、蜂鸣和只读定时器状态。\n定时器控制功能故意不对外公开，因为本地定时器写入操作可能会导致风扇关闭。"
-      },
       "1.5.0": {
         "en": "CoAP connection now stays stable instead of disconnecting every few minutes\nFixed adapter checker warnings",
         "de": "Die CoAP-Verbindung bleibt nun stabil, anstatt alle paar Minuten abzubrechen.\nBehobene Warnungen des Adapterprüfers",
