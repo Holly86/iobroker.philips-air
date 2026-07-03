@@ -47,7 +47,7 @@ More details are documented in [docs/CX3550.md](docs/CX3550.md).
     Placeholder for the next version (at the beginning of the line):
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.6.1 (2026-07-03)
 - (Holly86) Added support for Philips/Versuni CX3550/01 pedestal fan.
 - (Holly86) Added CX fan modes, oscillation, beep and read-only timer state.
 - (Holly86) Timer control is intentionally not exposed because local timer writes can switch the fan off.
@@ -75,6 +75,7 @@ More details are documented in [docs/CX3550.md](docs/CX3550.md).
 * (mcm1957) Materialize UI support has been removed
 * (mcm1957) jsonConfig responsive design size attributes have been added
 * (mcm1957) Dependencies have been updated
+
 
 [Older changelogs can be found there](CHANGELOG_OLD.md)
 

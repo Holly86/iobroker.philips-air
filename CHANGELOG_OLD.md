@@ -3,7 +3,6 @@
 * (mcm1957) Adapter requires node.js >= 18 and js-controller >= 5 now
 * (mcm1957) Dependencies have been updated
 
-
 ## 1.0.3 (2022-12-23)
 * (Apollon77) Finalized and optimized HTTP communication protocol
 * (Apollon77) Fixed type issues with device.error
